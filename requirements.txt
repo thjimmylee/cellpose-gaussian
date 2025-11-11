@@ -1,0 +1,4 @@
+# Core dependencies for cellpose-gaussian
+# Add your package dependencies here, for example:
+# numpy>=1.20.0
+# scipy>=1.7.0
